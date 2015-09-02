@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pattern A</string>
+
+    <string name="title_section1">Feed</string>
+    <string name="title_section2">Users</string>
+    <string name="title_section3">Apps</string>
+
+    <string name="hello_world">Pattern A</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
